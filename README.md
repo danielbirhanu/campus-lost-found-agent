@@ -1,6 +1,6 @@
-![Architecture Diagram](images/image-1.jpg)
-![Architecture Diagram](images/image-2.jpg)
-![Architecture Diagram](images/image-3.jpg)
-![Architecture Diagram](images/image-4.jpg)
-![Architecture Diagram](images/image-5.jpg)
-![Architecture Diagram](images/image-6.jpg)
+<image src="images/image-1.jpg" alt="terminal output screenshots" width="500" />
+<image src="images/image-2.jpg" alt="terminal output screenshots" width="500" />
+<image src="images/image-3.jpg" alt="terminal output screenshots" width="500" />
+<image src="images/image-4.jpg" alt="terminal output screenshots" width="500" />
+<image src="images/image-5.jpg" alt="terminal output screenshots" width="500" />
+<image src="images/image-6.jpg" alt="terminal output screenshots" width="500" />
